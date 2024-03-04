@@ -98,3 +98,6 @@ createCollection()
   .catch(error => {
     console.error(`Error during collection creation process: ${error.message}`);
   });
+
+
+//commiting the code
